@@ -14,7 +14,7 @@ features for piecewise R-λ model parameter estimation.
 
 Original OpenEXR File | https://pan.baidu.com/s/17DqrWl7rU9juVsxrMGadKg  pass: 2m98 |
 
-Training Data         | https://pan.baidu.com/s/1obReU3R_IhjpecY2ZaoIDw  pass: evqq |
+Training Data         | https://pan.baidu.com/s/1UmdaaOSBSe4wxL-JsCGUow  pass: uth9 |
 
 ### Training and Testing
 ```bash
