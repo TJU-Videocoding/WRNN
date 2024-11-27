@@ -8,7 +8,7 @@ separation of pixel domain features for effectively capturing
 frequency domain features that are sensitive to HDR characteristics.
 The PRM utilizes the extracted frequency domain
 features for piecewise R-λ model parameter estimation.
-![./network](./network.png)
+![./network1](./network1.png)
 
 ### Dataset
 
